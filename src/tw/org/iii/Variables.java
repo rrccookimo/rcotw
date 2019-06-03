@@ -7,7 +7,7 @@ public class Variables {
 		byte var2 = 12;
 		byte var3, var4;
 		byte var5 = 123, var = 127;
-		byte v7=100;
+		byte v7 = 100;
 		System.out.println(v7);
 		
 
